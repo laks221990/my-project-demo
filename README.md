@@ -8,3 +8,7 @@ This project is based on **Java script**
 2. Column resizing
 3. Editing cell
 4. Smart scrolling
+
+
+have done some change in this
+
